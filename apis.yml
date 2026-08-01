@@ -1,8 +1,26 @@
 aid: rangers-protocol
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rangers-protocol.png
 name: Rangers Protocol
-description: 'Rangers Protocol is a company surfaced as a portfolio company of pantera-capital and added
-  to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Rangers Protocol is an EVM-compatible Layer 1 blockchain (Chain ID 2025)
+  built for Web3 games and metaverse applications, using a VRF+BLS consensus mechanism
+  to handle high-frequency transactions and a heterogeneous relay chain for true cross-chain
+  interoperability. It features a virtual-machine ("blockchain virtualization") design,
+  an NFT protocol emphasizing data inheritance and reuse, an on-chain oracle, and the
+  Grand Guard Safe security tooling. Its native gas token, RPG (Rangers Protocol Gas),
+  is also issued as ERC20 on Ethereum and BEP20 on BNB Smart Chain. The developer surface
+  is standard Ethereum JSON-RPC plus verification-node operations; it was surfaced as
+  a portfolio company of Pantera Capital and enriched into the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/rangers-protocol/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Crypto
+- Blockchain
+- Web3
+- EVM
+- Layer 1
+- NFT
+- Cross-Chain
+- Oracle
+- Gaming
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.rangersprotocol.com/
+- type: Documentation
+  url: https://rangersprotocol.gitbook.io/rangersprotocol/
+- type: GitHubOrganization
+  url: https://github.com/RangersProtocol
+- type: BlockExplorer
+  url: https://scan.rangersprotocol.com/
+- type: Whitepaper
+  url: https://rangersprotocol.gitbook.io/rangersprotocol/tokenomics.md
+- type: LLMsTxt
+  url: llms/rangers-protocol-llms.txt
+- type: DomainSecurity
+  url: security/rangers-protocol-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

@@ -1,0 +1,28 @@
+# Rangers Protocol
+
+## Rangers Protocol
+
+- [Rangers Protocol Token Economy White Paper](https://rangersprotocol.gitbook.io/rangersprotocol/tokenomics.md): ProtoclokenEconomyWhitePaperPaperJULY 2022 V. 2.0
+- [Rangers Protocol Virtual Machine Technology Pt.1](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-product-articles/rangers-protocol-virtual-machine-technology-pt.1.md): Blockchain Virtualization — The Undiscovered Frontier
+- [Rangers Protocol Virtual Machine Technology, Pt.2](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-product-articles/rangers-protocol-virtual-machine-technology-pt.2.md): Blockchain Virtualization — The Undiscovered Frontier
+- [Rangers Protocol VRF+BLS Сonsensus Mechanism: Solving the Problem of High-Frequency Trading](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-product-articles/rangers-protocol-vrf+bls-sonsensus-mechanism-solving-the-problem-of-high-frequency-trading.md)
+- [Rangers Protocol Relay Chain: Heterogeneous Cross-Chain in the True Sense](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-product-articles/rangers-protocol-relay-chain-heterogeneous-cross-chain-in-the-true-sense.md)
+- [Rangers Protocol’s NFT Protocol: Data Inheritance and Reuse Are Key](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-product-articles/rangers-protocols-nft-protocol-data-inheritance-and-reuse-are-the-keys.md)
+- [How to Purchase BEP20 RPG](https://rangersprotocol.gitbook.io/rangersprotocol/buy-rpg/how-to-purchase-bep20-rpg.md): Rangers Protocol Gas($RPG) on Binance Smart Chain(BSC)
+- [How to Purchase ERC20 RPG](https://rangersprotocol.gitbook.io/rangersprotocol/buy-rpg/how-to-purchase-erc20-rpg.md): Rangers Protocol Gas($RPG) on Ethereum
+- [Get RPG/BUSD LP Tokens(BSC)](https://rangersprotocol.gitbook.io/rangersprotocol/add-liquidity-for-rpg/get-rpg-busd-lp-tokens-bsc.md)
+- [Get RPG/USDT LP Tokens(ETH)](https://rangersprotocol.gitbook.io/rangersprotocol/add-liquidity-for-rpg/get-rpg-usdt-lp-tokens-eth.md)
+- [How to Apply to Be a Verification Node](https://rangersprotocol.gitbook.io/rangersprotocol/become-a-verification-node/how-to-apply-to-be-a-verification-node.md)
+- [Node Reward Address Replacement](https://rangersprotocol.gitbook.io/rangersprotocol/become-a-verification-node/node-reward-address-replacement.md)
+- [How to Add Rangers Protocol Node Stakes](https://rangersprotocol.gitbook.io/rangersprotocol/become-a-verification-node/how-to-add-rangers-protocol-node-stakes.md)
+- [How to Use Rangers Protocol Cross-Chain Bridge?](https://rangersprotocol.gitbook.io/rangersprotocol/become-a-verification-node/how-to-use-rangers-protocol-cross-chain-bridge.md)
+- [User Manual](https://rangersprotocol.gitbook.io/rangersprotocol/node-manangement-platform/user-manual.md): Facilitate user access to the platform
+- [Console & Delegate](https://rangersprotocol.gitbook.io/rangersprotocol/node-manangement-platform/console-and-delegate.md)
+- [Apply & Calculator](https://rangersprotocol.gitbook.io/rangersprotocol/node-manangement-platform/apply-and-calculator.md)
+- [Portfolio & History](https://rangersprotocol.gitbook.io/rangersprotocol/node-manangement-platform/portfolio-and-history.md)
+- [What Is Rangers Protocol Oracle](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-oracle/what-is-rangers-protocol-oracle.md): Introduction to the oracle
+- [Instructions for the Oracle](https://rangersprotocol.gitbook.io/rangersprotocol/rangers-protocol-oracle/instructions-for-the-oracle.md)
+- [What is Grand Guard](https://rangersprotocol.gitbook.io/rangersprotocol/grand-guard-safe/what-is-grand-guard.md): Introduction to the Grand Guard Safe
+- [Instructions for Grand Guard Pt.1](https://rangersprotocol.gitbook.io/rangersprotocol/grand-guard-safe/instructions-for-grand-guard-pt.1.md)
+- [Instructions for Grand Guard Pt.2](https://rangersprotocol.gitbook.io/rangersprotocol/grand-guard-safe/instructions-for-grand-guard-pt.2.md)
+- [Instructions for Grand Guard Pt.3](https://rangersprotocol.gitbook.io/rangersprotocol/grand-guard-safe/instructions-for-grand-guard-pt.3.md)
